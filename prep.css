@@ -1,0 +1,11 @@
+body {
+    font-family: arial;
+    background-color: rgb(185,179,175);}
+table{
+      border-style: inset;
+      border-width: 3px;
+      border-color: rgb(185,179,175);
+      text-align: center;
+      margin-left: 2 %;}
+h1 {
+    color: rgb(255,255,255);}
